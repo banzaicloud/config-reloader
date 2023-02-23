@@ -1,3 +1,7 @@
+> # ⚠️ Repository moved
+>
+> New location: https://github.com/kube-logging/config-reloader
+
 <p align="center">
   <a href="https://github.com/vlzemtsov/config-reloader/">
     <img src="https://img.shields.io/badge/license-Apache%20v2-green.svg" alt="license">
